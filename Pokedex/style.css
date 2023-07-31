@@ -362,7 +362,7 @@ body {
     padding: 0 20px;
     word-wrap: break-word;
     min-height: 100vh; /* La hauteur minimale de la section sera égale à la hauteur de l'écran (viewport) */
-    font-size: 1.5rem; /* Taille de police similaire à celle d'un h3 */
+    font-size: 1.2rem; /* Taille de police similaire à celle d'un h3 */
     line-height: 1.5; /* Hauteur de ligne similaire à celle d'un h3 */
     color: #000; /* Couleur de texte */
     text-align: justify; /* Alignement du texte justifié */
